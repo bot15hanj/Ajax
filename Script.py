@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """Hello{},
-MY NAME IS <a href=https://t.me/{}>{}</a> I am Most Versatile File Store Bot And Auto filter Bot of Movie's Leaked Hub 😉❤"""
+MY NAME IS <a href=https://t.me/{}>{}</a>I am Most Versatile File Store Bot And Auto filter Bot of Movie's Leaked Hub 😉❤"""
     HELP_TXT = """HEY {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """𝙼𝚈 𝙽𝙰𝙼𝙴: {}
